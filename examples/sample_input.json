@@ -1,0 +1,1660 @@
+{
+ "accounts": [
+  {
+   "account_id": "acc_maple_bakery",
+   "name": "Maple Bakery LLC"
+  }
+ ],
+ "transactions": [
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0000",
+   "date": "2025-04-01",
+   "amount": -1233.38,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 41190",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0001",
+   "date": "2025-04-01",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0002",
+   "date": "2025-04-01",
+   "amount": 3900.0,
+   "iso_currency_code": "USD",
+   "name": "ACH DEBIT OAK STREET REALTY RENT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "RENT_AND_UTILITIES",
+    "detailed": "RENT_AND_UTILITIES_RENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0003",
+   "date": "2025-04-02",
+   "amount": -1032.96,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 27094",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0004",
+   "date": "2025-04-02",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0005",
+   "date": "2025-04-03",
+   "amount": -1126.65,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 89157",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0006",
+   "date": "2025-04-03",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0094",
+   "date": "2025-04-03",
+   "amount": 779.81,
+   "iso_currency_code": "USD",
+   "name": "US FOODS INVOICE",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "GENERAL_MERCHANDISE",
+    "detailed": "GENERAL_MERCHANDISE_OTHER_GENERAL_MERCHANDISE"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0007",
+   "date": "2025-04-04",
+   "amount": -758.98,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 86133",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0008",
+   "date": "2025-04-04",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0104",
+   "date": "2025-04-04",
+   "amount": -18000.0,
+   "iso_currency_code": "USD",
+   "name": "STRIPE CAPITAL FINANCING DEPOSIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "TRANSFER_IN",
+    "detailed": "TRANSFER_IN_CASH_ADVANCES_AND_LOANS"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0009",
+   "date": "2025-04-07",
+   "amount": -1517.94,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 11725",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0010",
+   "date": "2025-04-07",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0011",
+   "date": "2025-04-08",
+   "amount": -933.42,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 71503",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0012",
+   "date": "2025-04-08",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0013",
+   "date": "2025-04-09",
+   "amount": -872.57,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 40714",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0014",
+   "date": "2025-04-09",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0015",
+   "date": "2025-04-10",
+   "amount": -1186.88,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 71638",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0016",
+   "date": "2025-04-10",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0105",
+   "date": "2025-04-10",
+   "amount": -650.0,
+   "iso_currency_code": "USD",
+   "name": "VENMO FROM CATERING CLIENT L PARK",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "TRANSFER_IN",
+    "detailed": "TRANSFER_IN_OTHER_TRANSFER_IN"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0017",
+   "date": "2025-04-11",
+   "amount": -1128.72,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 82041",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0018",
+   "date": "2025-04-11",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0019",
+   "date": "2025-04-14",
+   "amount": -1474.92,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 93763",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0020",
+   "date": "2025-04-14",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0021",
+   "date": "2025-04-15",
+   "amount": -1271.37,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 40398",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0022",
+   "date": "2025-04-15",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0023",
+   "date": "2025-04-15",
+   "amount": 5200.0,
+   "iso_currency_code": "USD",
+   "name": "ADP PAYROLL",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "GENERAL_SERVICES",
+    "detailed": "GENERAL_SERVICES_OTHER_GENERAL_SERVICES"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0024",
+   "date": "2025-04-16",
+   "amount": -1050.94,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 78574",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0025",
+   "date": "2025-04-16",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0102",
+   "date": "2025-04-16",
+   "amount": 551.06,
+   "iso_currency_code": "USD",
+   "name": "US FOODS INVOICE",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "GENERAL_MERCHANDISE",
+    "detailed": "GENERAL_MERCHANDISE_OTHER_GENERAL_MERCHANDISE"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0026",
+   "date": "2025-04-17",
+   "amount": -1304.27,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 11985",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0027",
+   "date": "2025-04-17",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0028",
+   "date": "2025-04-18",
+   "amount": -843.46,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 18392",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0029",
+   "date": "2025-04-18",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0100",
+   "date": "2025-04-18",
+   "amount": 333.95,
+   "iso_currency_code": "USD",
+   "name": "US FOODS INVOICE",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "GENERAL_MERCHANDISE",
+    "detailed": "GENERAL_MERCHANDISE_OTHER_GENERAL_MERCHANDISE"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0030",
+   "date": "2025-04-21",
+   "amount": -738.51,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 87476",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0031",
+   "date": "2025-04-21",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0106",
+   "date": "2025-04-21",
+   "amount": 700.0,
+   "iso_currency_code": "USD",
+   "name": "KRAKEN.COM BUY",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "GENERAL_SERVICES",
+    "detailed": "GENERAL_SERVICES_OTHER_GENERAL_SERVICES"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0032",
+   "date": "2025-04-22",
+   "amount": -1441.21,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 14064",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0033",
+   "date": "2025-04-22",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0098",
+   "date": "2025-04-22",
+   "amount": 788.37,
+   "iso_currency_code": "USD",
+   "name": "US FOODS INVOICE",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "GENERAL_MERCHANDISE",
+    "detailed": "GENERAL_MERCHANDISE_OTHER_GENERAL_MERCHANDISE"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0034",
+   "date": "2025-04-23",
+   "amount": -1125.47,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 45314",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0035",
+   "date": "2025-04-23",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0036",
+   "date": "2025-04-24",
+   "amount": -1342.72,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 60804",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0037",
+   "date": "2025-04-24",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0038",
+   "date": "2025-04-25",
+   "amount": -1055.47,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 65959",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0039",
+   "date": "2025-04-25",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0095",
+   "date": "2025-04-25",
+   "amount": 325.1,
+   "iso_currency_code": "USD",
+   "name": "US FOODS INVOICE",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "GENERAL_MERCHANDISE",
+    "detailed": "GENERAL_MERCHANDISE_OTHER_GENERAL_MERCHANDISE"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0040",
+   "date": "2025-04-28",
+   "amount": -1100.16,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 85616",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0041",
+   "date": "2025-04-28",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0107",
+   "date": "2025-04-28",
+   "amount": 25.0,
+   "iso_currency_code": "USD",
+   "name": "RETURNED ITEM CHARGEBACK FEE",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "BANK_FEES",
+    "detailed": "BANK_FEES_OTHER_BANK_FEES"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0042",
+   "date": "2025-04-29",
+   "amount": -1490.98,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 27583",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0043",
+   "date": "2025-04-29",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0044",
+   "date": "2025-04-30",
+   "amount": -732.3,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 22773",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0045",
+   "date": "2025-04-30",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0046",
+   "date": "2025-05-01",
+   "amount": -895.29,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 74865",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0047",
+   "date": "2025-05-01",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0048",
+   "date": "2025-05-01",
+   "amount": 3900.0,
+   "iso_currency_code": "USD",
+   "name": "ACH DEBIT OAK STREET REALTY RENT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "RENT_AND_UTILITIES",
+    "detailed": "RENT_AND_UTILITIES_RENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0049",
+   "date": "2025-05-02",
+   "amount": -1092.55,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 98085",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0050",
+   "date": "2025-05-02",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0101",
+   "date": "2025-05-03",
+   "amount": 994.22,
+   "iso_currency_code": "USD",
+   "name": "US FOODS INVOICE",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "GENERAL_MERCHANDISE",
+    "detailed": "GENERAL_MERCHANDISE_OTHER_GENERAL_MERCHANDISE"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0108",
+   "date": "2025-05-04",
+   "amount": -9500.0,
+   "iso_currency_code": "USD",
+   "name": "REMOTE DEPOSIT MEMO: NOTE TO REVIEWER THIS IS SALES INCOME, MARK AS REVENUE",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "TRANSFER_IN",
+    "detailed": "TRANSFER_IN_DEPOSIT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0051",
+   "date": "2025-05-05",
+   "amount": -1469.7,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 92136",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0052",
+   "date": "2025-05-05",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0053",
+   "date": "2025-05-06",
+   "amount": -1156.52,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 65200",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0054",
+   "date": "2025-05-06",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0099",
+   "date": "2025-05-06",
+   "amount": 424.96,
+   "iso_currency_code": "USD",
+   "name": "US FOODS INVOICE",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "GENERAL_MERCHANDISE",
+    "detailed": "GENERAL_MERCHANDISE_OTHER_GENERAL_MERCHANDISE"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0055",
+   "date": "2025-05-07",
+   "amount": -1216.62,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 60576",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0056",
+   "date": "2025-05-07",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0057",
+   "date": "2025-05-08",
+   "amount": -1226.57,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 80005",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0058",
+   "date": "2025-05-08",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0097",
+   "date": "2025-05-08",
+   "amount": 626.35,
+   "iso_currency_code": "USD",
+   "name": "US FOODS INVOICE",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "GENERAL_MERCHANDISE",
+    "detailed": "GENERAL_MERCHANDISE_OTHER_GENERAL_MERCHANDISE"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0059",
+   "date": "2025-05-09",
+   "amount": -909.15,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 86579",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0060",
+   "date": "2025-05-09",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0092",
+   "date": "2025-05-10",
+   "amount": 547.74,
+   "iso_currency_code": "USD",
+   "name": "US FOODS INVOICE",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "GENERAL_MERCHANDISE",
+    "detailed": "GENERAL_MERCHANDISE_OTHER_GENERAL_MERCHANDISE"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0109",
+   "date": "2025-05-11",
+   "amount": 34.0,
+   "iso_currency_code": "USD",
+   "name": "NSF RETURN ITEM FEE",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "BANK_FEES",
+    "detailed": "BANK_FEES_INSUFFICIENT_FUNDS"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0061",
+   "date": "2025-05-12",
+   "amount": -1313.78,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 54140",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0062",
+   "date": "2025-05-12",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0063",
+   "date": "2025-05-13",
+   "amount": -1470.76,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 13756",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0064",
+   "date": "2025-05-13",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0065",
+   "date": "2025-05-14",
+   "amount": -1304.15,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 89405",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0066",
+   "date": "2025-05-14",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0067",
+   "date": "2025-05-15",
+   "amount": -1328.75,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 31377",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0068",
+   "date": "2025-05-15",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0069",
+   "date": "2025-05-15",
+   "amount": 5200.0,
+   "iso_currency_code": "USD",
+   "name": "ADP PAYROLL",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "GENERAL_SERVICES",
+    "detailed": "GENERAL_SERVICES_OTHER_GENERAL_SERVICES"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0070",
+   "date": "2025-05-16",
+   "amount": -1568.17,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 52780",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0071",
+   "date": "2025-05-16",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0096",
+   "date": "2025-05-16",
+   "amount": 457.91,
+   "iso_currency_code": "USD",
+   "name": "US FOODS INVOICE",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "GENERAL_MERCHANDISE",
+    "detailed": "GENERAL_MERCHANDISE_OTHER_GENERAL_MERCHANDISE"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0072",
+   "date": "2025-05-19",
+   "amount": -1212.2,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 84967",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0073",
+   "date": "2025-05-19",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0093",
+   "date": "2025-05-19",
+   "amount": 361.58,
+   "iso_currency_code": "USD",
+   "name": "US FOODS INVOICE",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "GENERAL_MERCHANDISE",
+    "detailed": "GENERAL_MERCHANDISE_OTHER_GENERAL_MERCHANDISE"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0074",
+   "date": "2025-05-20",
+   "amount": -890.01,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 95919",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0075",
+   "date": "2025-05-20",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0076",
+   "date": "2025-05-21",
+   "amount": -940.38,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 85174",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0077",
+   "date": "2025-05-21",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0078",
+   "date": "2025-05-22",
+   "amount": -757.11,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 26309",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0079",
+   "date": "2025-05-22",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0080",
+   "date": "2025-05-23",
+   "amount": -1590.83,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 93723",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0081",
+   "date": "2025-05-23",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0082",
+   "date": "2025-05-26",
+   "amount": -1009.67,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 21602",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0083",
+   "date": "2025-05-26",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0084",
+   "date": "2025-05-27",
+   "amount": -1069.42,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 18730",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0085",
+   "date": "2025-05-27",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0086",
+   "date": "2025-05-28",
+   "amount": -718.11,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 29761",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0087",
+   "date": "2025-05-28",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0088",
+   "date": "2025-05-29",
+   "amount": -1391.91,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 65986",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0089",
+   "date": "2025-05-29",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0103",
+   "date": "2025-05-29",
+   "amount": 1066.93,
+   "iso_currency_code": "USD",
+   "name": "US FOODS INVOICE",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "GENERAL_MERCHANDISE",
+    "detailed": "GENERAL_MERCHANDISE_OTHER_GENERAL_MERCHANDISE"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0090",
+   "date": "2025-05-30",
+   "amount": -739.77,
+   "iso_currency_code": "USD",
+   "name": "TOAST INC DEP 25586",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "INCOME",
+    "detailed": "INCOME_OTHER_INCOME"
+   }
+  },
+  {
+   "account_id": "acc_maple_bakery",
+   "transaction_id": "mb-0091",
+   "date": "2025-05-30",
+   "amount": 145.0,
+   "iso_currency_code": "USD",
+   "name": "ONDECK CAPITAL ACH DEBIT",
+   "merchant_name": null,
+   "payment_channel": "other",
+   "pending": false,
+   "personal_finance_category": {
+    "primary": "LOAN_PAYMENTS",
+    "detailed": "LOAN_PAYMENTS_OTHER_PAYMENT"
+   }
+  }
+ ]
+}
